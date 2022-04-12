@@ -1,0 +1,18 @@
+body {
+    background-color: lightskyblue;
+}
+
+.Score{
+    font-size: 19px;
+    margin-left: 19px;
+}
+
+.timer{
+    font-size: 19px;
+    float: right;
+    margin-right: 19px;
+}
+
+.tobe{
+    color: darkblue;
+}
